@@ -31,7 +31,7 @@ Benefits:
 ## **A Practical Implementation View** ##
 The following diagram shows a practical implementation of _architecture continuum_ in an enterprise oriented architecture. The roles and the artifacts are selected at the discretion of the organization. Roles could be: architect, developer, product analyst, DevOp worker, AppOps worker etc. Architecture artifacts are in general documents like: concept (blueprint) architecture used in the initial discussions with the customers, and usually included in the customer solution document (CSD); high-level architecture (HLA); security assessment etc.
 
-
+![Image](https://github.com/user-attachments/assets/6144ef09-f763-4904-871b-f3ab92158162)
 
 ## **Foundational Architecture** ##
 
