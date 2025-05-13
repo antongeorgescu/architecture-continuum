@@ -56,7 +56,7 @@ The terms **artifact** and **asset** are often used interchangeably in software 
   - Design documents
   - Data models
   - Source code (for POC)
-  - Deployment & tTest plans (for POC)
+  - Deployment & Test plans (for POC)
 
 > Think of artifacts as **deliverables** or **evidence** of work done.
 
