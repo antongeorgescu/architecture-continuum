@@ -1,6 +1,8 @@
 # **Understanding the Architecture Continuum and Its Role in Software Development** #
 
 In the evolving landscape of software architecture, the Architecture Continuum serves as a foundational concept that bridges the gap between high-level strategic vision and detailed technical implementation. This article explores the continuum's definitions, importance, and key architectural layers, with a focus on High-Level Architecture (HLA) and its role in guiding successful software projects.
+The comments and the practical implementation is driven by or inspired by **The Open Group Architecture Framework (TOGAF)**. 
+TOGAF is a widely used enterprise architecture framework that provides a comprehensive approach for designing, planning, implementing, and governing enterprise information architecture. TOGAF helps organizations align IT goals with business objectives, ensuring that technology supports strategic outcomes.
 
 ---
 
