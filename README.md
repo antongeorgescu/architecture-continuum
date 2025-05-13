@@ -39,7 +39,47 @@ Benefits:
 ## **A Practical Implementation View** ##
 The following diagram shows a practical implementation of _architecture continuum_ in an enterprise oriented architecture. The roles and the artifacts are selected at the discretion of the organization. Roles could be: architect, developer, product analyst, DevOp worker, AppOps worker etc. Architecture artifacts are in general documents like: concept (blueprint) architecture used in the initial discussions with the customers, and usually included in the customer solution document (CSD); high-level architecture (HLA); security assessment etc.
 
-![Image](https://github.com/user-attachments/assets/6144ef09-f763-4904-871b-f3ab92158162)
+![Image](https://github.com/user-attachments/assets/4b329a03-3e48-4ada-90df-7925799d0672)
+
+---
+
+## **Assets vs Artifacts** ##
+
+The diagram above introduces two outputs of the _architecture continuum_: **assets** and **artifacts**.
+The terms **artifact** and **asset** are often used interchangeably in software architecture and enterprise frameworks like TOGAF, but they have distinct meanings depending on context:
+
+### 🔹 **Artifact**
+- An **artifact** is a **tangible work product** created during the development process.
+- It is usually **documented**, **versioned**, and **used as input/output** in architectural or engineering activities.
+- Examples:
+  - Architecture diagrams
+  - Design documents
+  - Data models
+  - Source code (for POC)
+  - Deployment & tTest plans (for POC)
+
+> Think of artifacts as **deliverables** or **evidence** of work done.
+
+### 🔹 **Asset**
+- An **asset** is a **reusable resource** that provides **value** to the organization.
+- It can be **tangible or intangible**, and may include artifacts, but also includes tools, templates, libraries, and even knowledge.
+- Examples:
+  - A reusable API
+  - A cloud infrastructure template
+  - A security policy framework
+  - A training manual
+
+> Assets are **strategic resources** that can be leveraged across multiple projects or teams. Many of them are the result of R&D and POC work doen by architects.
+
+---
+
+### 🧩 In Summary:
+| Feature        | Artifact                          | Asset                              |
+|----------------|-----------------------------------|-------------------------------------|
+| Purpose        | Represents a work product         | Represents a reusable resource      |
+| Scope          | Project-specific                  | Organization-wide or reusable       |
+| Examples       | Diagrams, specs, code             | APIs, templates, libraries          |
+| Lifecycle      | Created during a process          | Managed for reuse and value         |
 
 ---
 
